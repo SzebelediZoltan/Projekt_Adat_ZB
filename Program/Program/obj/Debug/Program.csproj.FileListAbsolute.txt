@@ -1,0 +1,7 @@
+E:\Iskola\Projekt_Adat_ZB\Program\Program\bin\Debug\Program.exe.config
+E:\Iskola\Projekt_Adat_ZB\Program\Program\bin\Debug\Program.exe
+E:\Iskola\Projekt_Adat_ZB\Program\Program\bin\Debug\Program.pdb
+E:\Iskola\Projekt_Adat_ZB\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+E:\Iskola\Projekt_Adat_ZB\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Iskola\Projekt_Adat_ZB\Program\Program\obj\Debug\Program.exe
+E:\Iskola\Projekt_Adat_ZB\Program\Program\obj\Debug\Program.pdb
