@@ -1,26 +1,28 @@
 Fő téma: LEGO Cég
 
 Alanyok és attribútumok:
-	-Alkalmazott: ---------------------+----------------------------|
-		-TAJ szám (Kulcs)          |                            |
-		-Név                       |                            |
-		-Születési dátum           ------- Beosztás             |
-		-eMail                     |                            |
-		-telSzám                   |                            |
-		-Fizetés                   |                            |
-	-Gyár: ----------------------------+----------------------------+------- CégForgalom
-		-Nev (Kulcs)               |                            | 
-		-Telepules                 |                            |
-		-ÉpítésiÉv                 ------- GyártásiSor          |
-		-ÁHM.                      |                            |
-		-Bevétel                   |                            |
-	-Szett:----------------------------+----------------------------|
+	-Alkalmazott: ---------------------+
+		-TAJ szám (Kulcs)          |                            
+		-Név                       |                            
+		-Születési dátum           ------- Beosztás             
+		-eMail                     |                            
+		-telSzám                   |                            
+		-Fizetés                   |                            
+	-Gyár: ----------------------------+
+		-Nev (Kulcs)               |                             
+		-Telepules                 |                            
+		-ÉpítésiÉv                 ------- GyártásiSor          
+		-ÁHM.                      |                            
+		-Bevétel                   |                            
+	-Szett:----------------------------+
 		-Szériaszám (Kulcs)
 		-Név
 		-KiadásÉv
 		-Ár (Ft)
 		-Franchise
 		-dbSzám
+		-korOsztály
+		-Forgalom (bool)
 
 Kapcsolatok:
 	-Beosztás:
@@ -34,10 +36,3 @@ Kapcsolatok:
 		-TermékSzsz. (FK)
 		-ÁHE
 		-GyártásiÁr
-	-CégForgalom:
-		-BeosztottTaj (FK)
-		-GyárNév (FK)
-		-TermékSZsz. (FK)
-		-ÖsszBevétel
-		-ÖsszKiadás
-		-Profit
