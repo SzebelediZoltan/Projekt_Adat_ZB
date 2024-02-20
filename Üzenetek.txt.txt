@@ -1,0 +1,2 @@
+B: Átírtam pár dolgot a dokumentációban, hogy "értelmesebb" legyen (eddig is az volt, de így az én szavaim is benne vannak).
+	Nézd meg, ha valami problémás, vagy nem tetzsik, szólj kérlek	
