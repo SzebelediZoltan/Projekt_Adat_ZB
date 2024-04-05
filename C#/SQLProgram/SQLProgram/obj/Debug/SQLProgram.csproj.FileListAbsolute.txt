@@ -1,0 +1,7 @@
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\SQLProgram\SQLProgram\obj\Debug\SQLProgram.csproj.AssemblyReference.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\SQLProgram\SQLProgram\obj\Debug\SQLProgram.csproj.CoreCompileInputs.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\SQLProgram\SQLProgram\bin\Debug\SQLProgram.exe.config
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\SQLProgram\SQLProgram\bin\Debug\SQLProgram.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\SQLProgram\SQLProgram\bin\Debug\SQLProgram.pdb
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\SQLProgram\SQLProgram\obj\Debug\SQLProgram.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\SQLProgram\SQLProgram\obj\Debug\SQLProgram.pdb
