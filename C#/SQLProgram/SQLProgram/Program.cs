@@ -16,6 +16,7 @@ namespace SQLProgram
         static List<Gyar> gyarak = new List<Gyar>();
         static List<Gyar> ujgyarak = new List<Gyar>();
 
+        static Random r = new Random();
         static void Main(string[] args)
         {
             //MAIN
@@ -24,10 +25,23 @@ namespace SQLProgram
             Redundancia2();
             InsertFunction();
 
+            Telefonszamok();
+
             //END
             Console.ReadKey();
         }
         //METÓDUSOK
+        static void Telefonszamok()
+        {
+            List<string> szamok = new List<string>();
+            for (int i = 0; i < 30; i++)
+            {
+                string szam = "0630";
+                szam += r.Next(1000000, 9999999);
+                szamok.Add(szam);
+            }
+        }
+
         static void InsertFunction()
         {
             StreamWriter f = new StreamWriter("Insert.sql");
@@ -110,17 +124,6 @@ namespace SQLProgram
             //(...)
         }
 
-        static void Fajlbeolvasas2()
-        {
-            string[] adatok = File.ReadAllLines(".txt");
-            for (int i = 0; i < adatok.Length; i++)
-            {
-                string[] st = adatok[i].Split(' ');
-                Gyar sv = new Gyar(st[0], st[1], Convert.ToInt32(st[2]), Convert.ToInt32(st[3]), Convert.ToInt32(st[4]));
-                gyarak.Add(sv);
-            }
-            
-        }
 
 
     }
