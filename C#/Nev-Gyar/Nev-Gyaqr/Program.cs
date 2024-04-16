@@ -32,7 +32,7 @@ namespace Nev_Gyaqr
 
         static void Fajlbeolvasas2()
         {
-            StreamReader fr = new StreamReader("Gyarak.txt");
+            StreamReader fr = new StreamReader("gyarak.txt");
 
             while (!fr.EndOfStream)
             {
@@ -44,7 +44,7 @@ namespace Nev_Gyaqr
 
         static void Fajlbeolvasas1()
         {
-            StreamReader fr = new StreamReader("Alkalmazottak.txt");
+            StreamReader fr = new StreamReader("alkalmazottak.txt");
 
             while(!fr.EndOfStream)
             {
@@ -75,7 +75,7 @@ namespace Nev_Gyaqr
         public string nev, email, szuletes, telefonszam;
         public int taj, fizetes;
 
-        public Alkalmazott(string nev, string email, int fizetes, int taj, string telefonszam, string szuletes)
+        public Alkalmazott(string nev, string email, int fizetes, int taj, string szuletes, string telefonszam)
         {
             this.nev = nev;
             this.email = email;

@@ -1,0 +1,7 @@
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\bin\Debug\Nev-Gyaqr.exe.config
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\bin\Debug\Nev-Gyaqr.exe
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\bin\Debug\Nev-Gyaqr.pdb
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.csproj.AssemblyReference.cache
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.csproj.CoreCompileInputs.cache
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.exe
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.pdb
