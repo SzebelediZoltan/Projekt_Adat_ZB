@@ -25,22 +25,10 @@ namespace SQLProgram
             Redundancia2();
             InsertFunction();
 
-            Telefonszamok();
-
             //END
             Console.ReadKey();
         }
         //METÓDUSOK
-        static void Telefonszamok()
-        {
-            List<string> szamok = new List<string>();
-            for (int i = 0; i < 30; i++)
-            {
-                string szam = "0630";
-                szam += r.Next(1000000, 9999999);
-                szamok.Add(szam);
-            }
-        }
 
         static void InsertFunction()
         {

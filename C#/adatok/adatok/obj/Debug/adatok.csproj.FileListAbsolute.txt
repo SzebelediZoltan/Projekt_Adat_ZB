@@ -1,0 +1,7 @@
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.csproj.AssemblyReference.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.csproj.CoreCompileInputs.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\adatok\adatok\bin\Debug\adatok.exe.config
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\adatok\adatok\bin\Debug\adatok.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\adatok\adatok\bin\Debug\adatok.pdb
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.pdb
