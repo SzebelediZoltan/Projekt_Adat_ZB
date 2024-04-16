@@ -1,0 +1,10 @@
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\bin\Debug\SQL_Program.exe.config
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\bin\Debug\SQL_Program.exe
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\bin\Debug\SQL_Program.pdb
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\obj\Debug\SQL_Program.csproj.AssemblyReference.cache
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\obj\Debug\SQL_Program.csproj.CoreCompileInputs.cache
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\obj\Debug\SQL_Program.exe
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\obj\Debug\SQL_Program.pdb
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\bin\Debug\Newtonsoft.Json.dll
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\bin\Debug\Newtonsoft.Json.xml
+E:\Iskola\Projekt_Adat_ZB\C#\SQL_Program\SQL_Program\obj\Debug\SQL_Program.csproj.CopyComplete
