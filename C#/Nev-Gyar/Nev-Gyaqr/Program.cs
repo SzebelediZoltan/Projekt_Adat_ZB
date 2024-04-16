@@ -25,9 +25,10 @@ namespace Nev_Gyaqr
             StreamWriter fw = new StreamWriter("nyersAdatok.txt");
             for (int i = 0; i < alkalmazottak.Count; i++)
             {
-                int szam = r.Next(0, 101);
+                int szam = r.Next(0, 50);
                 fw.Write($"{alkalmazottak[i].nev};{alkalmazottak[i].email};{alkalmazottak[i].fizetes};{alkalmazottak[i].taj};{alkalmazottak[i].szuletes};{alkalmazottak[i].telefonszam};{gyarak[szam].ahm};{gyarak[szam].nev};{gyarak[szam].epitesiev};{gyarak[szam].telepules};{gyarak[szam].bevetel}\n");
             }
+            fw.Close();
         }
 
         static void Fajlbeolvasas2()

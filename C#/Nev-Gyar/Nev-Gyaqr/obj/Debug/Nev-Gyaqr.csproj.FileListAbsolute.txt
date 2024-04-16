@@ -5,3 +5,10 @@ H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr
 H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.csproj.CoreCompileInputs.cache
 H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.exe
 H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.pdb
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\bin\Debug\Nev-Gyaqr.exe.config
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\bin\Debug\Nev-Gyaqr.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\bin\Debug\Nev-Gyaqr.pdb
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.csproj.AssemblyReference.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.csproj.CoreCompileInputs.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\Nev-Gyar\Nev-Gyaqr\obj\Debug\Nev-Gyaqr.pdb

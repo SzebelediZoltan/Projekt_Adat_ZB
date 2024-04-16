@@ -1,0 +1,7 @@
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\gyaradatok\gyaradatok\bin\Debug\gyaradatok.exe.config
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\gyaradatok\gyaradatok\bin\Debug\gyaradatok.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\gyaradatok\gyaradatok\bin\Debug\gyaradatok.pdb
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\gyaradatok\gyaradatok\obj\Debug\gyaradatok.csproj.AssemblyReference.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\gyaradatok\gyaradatok\obj\Debug\gyaradatok.csproj.CoreCompileInputs.cache
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\gyaradatok\gyaradatok\obj\Debug\gyaradatok.exe
+H:\2023-24\IKT projektmunka II\! Adatbázis_FB_SZZ\Projekt_Adat_ZB\C#\gyaradatok\gyaradatok\obj\Debug\gyaradatok.pdb
