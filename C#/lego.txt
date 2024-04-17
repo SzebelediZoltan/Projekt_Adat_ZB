@@ -1,0 +1,23 @@
+2017;LEGO House;20990;true;774;Archiutecture;12;21037
+2023;Batmobile: batman vs. Joker hajsza;19690;true;438;Batman;8;76224
+2023;Apró cserepes növények;19990;true;758;Botanical collection;18;10329
+NULL;Lombház;99990;true;3036;Botanical collection;16;NULL
+2023;ÉVA és WALL-E;5990;true;155;Brickheadz;10;40619
+2024;Hamburgeres furgon;6990;true;194;City;5;60404
+2023;Belváros;88990;true;2010;City;8;60380
+2024;Tengeri állatok;10990;true;421;Creator 3in1;8;31158
+2023;Madárház;10990;true;476;Creator 3in1;8;31143
+2021;Porsche 911;68490;true;1458;Creator expert;18;10295
+2022;Nagy sebességű vonat;7990;true;284;Creator expert;7;40518
+2023;Denevérbarlang árnyékdoboz;163990;true;3981;DC;18;76252
+2023;Gonosztevők ikonikus tárgyai;58990;true;1540;Disney;18;43227
+NULL;Mickey egér és Minnie egér tanévkezdő doboz;18490;true;669;Dots;6;NULL
+2024;Állatok a vonaton;6990;true;19;Duplo;1;10412
+2023;Villám McQueen és matuka vidám autómosása;13990;true;29;Duplo;2;10996
+2023;Botanikuskert;35990;true;1072;Friends;12;41757
+2023;Grindotts a varázslók bankja - gyüjtői kiadás;172990;true;4801;Harry Potter;18;76417
+2023;Dobby a házimanó;11990;true;403;Harry Potter;8;76421
+2024;Londoni piros telefonfülke;47990;true;1460;Ideas;18;21347
+2024;Polaroid OneStep SX-70 Fényképezőgép;33990;true;516;Ideas;18;21345
+2015;Agymenők;NULL;false;484;Ideas;12;21302
+

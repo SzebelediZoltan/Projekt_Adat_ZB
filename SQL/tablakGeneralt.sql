@@ -148,7 +148,7 @@ VALUES
 ("Ceglédi Lego Gyár", 2732543, 2009, "Cegléd", 2064906063),
 ("Örkényi Lego Gyár", 3178693, 1999, "Örkény", 2134119692);
 
-INSERT INTO Beosztás
+INSERT INTO Beosztás(Gyár_név, TAJ)
 VALUES
 ("Dunaújvárosi Lego Gyár", 146932673),
 ("Keszthelyi Lego Gyár", 146337081),
