@@ -1,0 +1,7 @@
+E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\bin\Debug\SzettFeldolgozas.exe.config
+E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\bin\Debug\SzettFeldolgozas.exe
+E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\bin\Debug\SzettFeldolgozas.pdb
+E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.csproj.AssemblyReference.cache
+E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.csproj.CoreCompileInputs.cache
+E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.exe
+E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.pdb

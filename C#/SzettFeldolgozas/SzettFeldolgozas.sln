@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzettFeldolgozas", "SzettFeldolgozas\SzettFeldolgozas.csproj", "{F76BA92B-A7DC-4F70-A731-6E47F4122142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76BA92B-A7DC-4F70-A731-6E47F4122142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76BA92B-A7DC-4F70-A731-6E47F4122142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76BA92B-A7DC-4F70-A731-6E47F4122142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76BA92B-A7DC-4F70-A731-6E47F4122142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615E28D3-AB4A-407F-84BE-1CCA491DEC27}
+	EndGlobalSection
+EndGlobal

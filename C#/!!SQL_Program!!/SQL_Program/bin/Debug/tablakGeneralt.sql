@@ -250,4 +250,3 @@ VALUES
 ("Kaposfüredi Lego Gyár", 146700154),
 ("Örkényi Lego Gyár", 146706936),
 ("Monori Lego Gyár", 146965114);
-
