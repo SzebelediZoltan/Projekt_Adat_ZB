@@ -5,3 +5,10 @@ E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFe
 E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.csproj.CoreCompileInputs.cache
 E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.exe
 E:\Iskola\Projekt_Adat_ZB\C#\SzettFeldolgozas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.pdb
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Szett-Beosztas\SzettFeldolgozas\bin\Debug\SzettFeldolgozas.exe.config
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Szett-Beosztas\SzettFeldolgozas\bin\Debug\SzettFeldolgozas.exe
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Szett-Beosztas\SzettFeldolgozas\bin\Debug\SzettFeldolgozas.pdb
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Szett-Beosztas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.csproj.AssemblyReference.cache
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Szett-Beosztas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.csproj.CoreCompileInputs.cache
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Szett-Beosztas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.exe
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Szett-Beosztas\SzettFeldolgozas\obj\Debug\SzettFeldolgozas.pdb

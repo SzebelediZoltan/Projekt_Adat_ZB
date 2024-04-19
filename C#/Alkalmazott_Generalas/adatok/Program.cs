@@ -66,7 +66,7 @@ namespace adatok
 
         static string Szuletes()
         {
-            string szuletesnap = r.Next(1930, 2001) + "-" + r.Next(0, 13) + "-" + r.Next(1, 29);
+            string szuletesnap = r.Next(1930, 2001) + "-" + r.Next(1, 13) + "-" + r.Next(1, 29);
             return szuletesnap;
         }
 
@@ -76,7 +76,7 @@ namespace adatok
             elojelek.Add("20");
             elojelek.Add("30");
             elojelek.Add("70");
-            string telszam = "06" + elojelek[r.Next(0, 3)] + r.Next(1000000, 9999999);
+            string telszam = "36" + elojelek[r.Next(0, 3)] + r.Next(1000000, 9999999);
             return telszam;
         }
     }

@@ -91,4 +91,3 @@ VALUES
 ("Gyáli Lego Gyár", 31158, 90556, 2211),
 ("Gyáli Lego Gyár", 42342, 20573, 168),
 ("Gyáli Lego Gyár", 10329, 56751, 2431);
-

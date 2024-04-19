@@ -2,12 +2,12 @@ CREATE DATABASE Lego_Gyar;
 USE Lego_Gyar;
 
 CREATE TABLE Alkalmazott (
-    TAJ_szám INT PRIMARY KEY,
+    TAJ_szam INT PRIMARY KEY,
     Név VARCHAR(30),
     Email VARCHAR(70),
     Fizetés INT,
     SzületésiDátum DATE,
-    Telefonszám INT
+    Telefonszám VARCHAR(50)
 );
 
 CREATE TABLE Gyár(
@@ -30,15 +30,15 @@ CREATE TABLE Szett(
 );
 
 CREATE TABLE Beosztás (
-    TAJ int NOT NULL,
-    Gyár_név VARCHAR(50) NOT NULL,
-    CONSTRAINT FK_Beosztás_alkalmazott FOREIGN KEY (TAJ) REFERENCES Alkalmazott (TAJ_szám),
+    TAJ int,
+    Gyár_név VARCHAR(50),
+    CONSTRAINT FK_Beosztás_alkalmazott FOREIGN KEY (TAJ) REFERENCES Alkalmazott (TAJ_szam),
     CONSTRAINT FK_Beosztás_gyár FOREIGN KEY (Gyár_név) REFERENCES Gyár (Név)
 );
 
 CREATE TABLE Gyártási_Sor (
-    Gyár_név VARCHAR(50) NOT NULL,
-    Szériaszám INT NOT NULL,
+    Gyár_név VARCHAR(50),
+    Szériaszám INT,
     GyártásiÁr INT,
     ÁHE INT,
     CONSTRAINT FK_Beosztás_gyár2 FOREIGN KEY (Gyár_név) REFERENCES Gyár (Név),

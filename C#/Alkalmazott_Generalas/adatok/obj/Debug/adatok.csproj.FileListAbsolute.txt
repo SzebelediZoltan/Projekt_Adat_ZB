@@ -12,3 +12,10 @@ E:\Iskola\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.csproj.AssemblyRefer
 E:\Iskola\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.csproj.CoreCompileInputs.cache
 E:\Iskola\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.exe
 E:\Iskola\Projekt_Adat_ZB\C#\adatok\adatok\obj\Debug\adatok.pdb
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Alkalmazott_Generalas\adatok\bin\Debug\adatok.exe.config
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Alkalmazott_Generalas\adatok\bin\Debug\adatok.exe
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Alkalmazott_Generalas\adatok\bin\Debug\adatok.pdb
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Alkalmazott_Generalas\adatok\obj\Debug\adatok.csproj.AssemblyReference.cache
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Alkalmazott_Generalas\adatok\obj\Debug\adatok.csproj.CoreCompileInputs.cache
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Alkalmazott_Generalas\adatok\obj\Debug\adatok.exe
+H:\Iskola\Daniel_tanar\Projekt_Adat_ZB\C#\Alkalmazott_Generalas\adatok\obj\Debug\adatok.pdb

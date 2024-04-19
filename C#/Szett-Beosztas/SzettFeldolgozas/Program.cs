@@ -71,12 +71,12 @@ namespace SzettFeldolgozas
             }
             fr.Close();
 
-            StreamReader fr2 = new StreamReader("gyarak.txt");
+            StreamReader fr2 = new StreamReader("nyersAdatok.txt");
             while (!fr2.EndOfStream)
             {
                 string sorr = fr2.ReadLine();
                 string[] sor = sorr.Split(';');
-                gyarNevek.Add(sor[1]);
+                gyarNevek.Add(sor[7]);
             }
         }
     }
@@ -120,7 +120,7 @@ namespace SzettFeldolgozas
 
         public override string ToString()
         {
-            return $"{kiadasiev}, \"{nev}\", {ar}, {forgalomban}, {db}, \"{tema}\", {kor}, {szeriaszam}";
+            return $"{szeriaszam}, {kiadasiev}, \"{nev}\", {ar}, {forgalomban}, {db}, \"{tema}\", {kor}";
         }
     }
 }

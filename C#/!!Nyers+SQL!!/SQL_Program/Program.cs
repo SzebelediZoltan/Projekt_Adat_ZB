@@ -107,7 +107,7 @@ namespace SQL_Program
 
         public override string ToString()
         {
-            return $"\"{gyarnev}\", {taj}";
+            return $"{taj}, \"{gyarnev}\"";
         }
     }
 
@@ -150,7 +150,7 @@ namespace SQL_Program
 
         public override string ToString()
         {
-            return $"{taj}, \"{nev}\", \"{email}\", {fizetes}, \"{szuletesidatum}\", {telefonszam}";
+            return $"{taj}, \"{nev}\", \"{email}\", {fizetes}, \"{szuletesidatum}\", \"{telefonszam}\"";
         }
     }
 }
