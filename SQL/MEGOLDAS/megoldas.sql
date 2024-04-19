@@ -33,7 +33,7 @@ WHERE Bevétel / 12 > 5000000;
 
 --8:
 SELECT *
-FROM Alkalmazott INNER JOIN Beosztás ON Alkalmazott.TAJ_szám = Beosztás.TAJ
+FROM Alkalmazott INNER JOIN Beosztás ON Alkalmazott.TAJ_szam = Beosztás.TAJ
 WHERE Gyár_név IN (SELECT Név FROM Gyár WHERE Település = 'Budapest');
 
 --9:
